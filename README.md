@@ -1,2 +1,2 @@
 # roeseliana
-Data for body size and individual heterozygosity of Roeseliana roeselii
+Data and code for "Individual heterozygosity and fitness in bottlenecked populations during early colonisation"
